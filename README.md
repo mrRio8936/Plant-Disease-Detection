@@ -1,28 +1,27 @@
-Plant Disease Detection
-Description
+# Plant Disease Detection
+## Description
 This project focuses on detecting plant diseases using machine learning models built with Python. It utilizes various libraries such as Pandas, Numpy, Matplotlib, and Keras to preprocess data, train models, and visualize results. The goal is to accurately identify diseases in plants from images, helping farmers and gardeners maintain healthy crops.
 
-Table of Contents
+## Table of Contents
 Installation
 Usage
 Features
 Dataset
 Model Architecture
 Contributing
-License
 Contact
 Installation
 To set up the project locally, follow these steps:
 
 bash
 Copy code
-# Clone the repository
+## Clone the repository
 git clone https://github.com/yourusername/plant-disease-detection.git
 
-# Navigate to the project directory
+## Navigate to the project directory
 cd plant-disease-detection
 
-# Install required Python packages
+## Install required Python packages
 pip install -r requirements.txt
 Ensure you have Python installed, along with the following libraries:
 
