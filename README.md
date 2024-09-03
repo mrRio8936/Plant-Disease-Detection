@@ -67,5 +67,5 @@ Open a Pull Request.
 ### Contact
 For questions, suggestions, or feedback, feel free to contact me:
 
-Email: yourtechsaurabh@gmial.com
+Email: yourtechsaurabh@gmail.com
 GitHub: Mrrio
